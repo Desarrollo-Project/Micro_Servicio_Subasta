@@ -1,0 +1,12 @@
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\bin\Debug\net8.0\Subasta_Dominio.deps.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\bin\Debug\net8.0\Subasta_Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\bin\Debug\net8.0\Subasta_Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.csproj.AssemblyReference.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.AssemblyInfoInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.AssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\refint\Subasta_Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\Subasta_Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta_Dominio\obj\Debug\net8.0\ref\Subasta_Dominio.dll

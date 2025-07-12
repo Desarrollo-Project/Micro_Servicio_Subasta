@@ -1,0 +1,408 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Subasta.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Subastas/Crear_Subasta": {
+      "post": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Crear_Subasta_DTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Crear_Subasta_DTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Crear_Subasta_DTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Cambiar_Estado": {
+      "put": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cambiar_Estado_DTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cambiar_Estado_DTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cambiar_Estado_DTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Eliminar_Subasta": {
+      "delete": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Eliminar_Subasta_DTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Eliminar_Subasta_DTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Eliminar_Subasta_DTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Pendientes_Activas": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Finalizadas": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Dueño": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "idDueño",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Estado_Subasta": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "idSubasta",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Id_Subastas_Activas": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subasta_Por_Id": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "idSubasta",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Finalizadas_Por_Id_Usuario": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "id_Usuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Pagadas_Por_Id_Usuario": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "id_Usuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Pagadas_Por_Id_Ganador": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "id_gandor",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Obtener_Subastas_Finalizadas_Por_Id_Ganador": {
+      "get": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "parameters": [
+          {
+            "name": "id_gandor",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subastas/Actualizar_Subasta_Id_Postor_Y_Precio_Final": {
+      "put": {
+        "tags": [
+          "Controller_Subastas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actualizar_Subasta_DTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actualizar_Subasta_DTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Actualizar_Subasta_DTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Actualizar_Subasta_DTO": {
+        "type": "object",
+        "properties": {
+          "id_ganador": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "id_subasta": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "precio_Final": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Cambiar_Estado_DTO": {
+        "type": "object",
+        "properties": {
+          "id_Subasta": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "estado_Siguiente": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Crear_Subasta_DTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "id_Dueño_Subasta": {
+            "type": "string",
+            "nullable": true
+          },
+          "id_Producto_Asociado": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombre_Subasta": {
+            "type": "string",
+            "nullable": true
+          },
+          "precio_Inicial": {
+            "type": "number",
+            "format": "double"
+          },
+          "precioCierre_Automatico": {
+            "type": "number",
+            "format": "double"
+          },
+          "precio_Reserva": {
+            "type": "number",
+            "format": "double"
+          },
+          "incremento_Minimo": {
+            "type": "number",
+            "format": "double"
+          },
+          "fecha_Inicio": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fecha_Fin": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Eliminar_Subasta_DTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
