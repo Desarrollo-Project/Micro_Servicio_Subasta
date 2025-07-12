@@ -461,4 +461,23 @@ public class Controller_Subastas : ControllerBase
         }
     }
 
+    /// <summary>
+    /// Actualizar subasta cuando Finaliza, agrega el postor y el monto.
+    /// </summary>
+
+    [HttpPut("Actualizar_Subasta_Id_Postor_Y_Precio_Final")]
+    public async Task<IActionResult> Actualizar_Subasta_Id_Postor_Y_Precio_Final([FromBody] Actualizar_Subasta_DTO dto)
+    {
+        try
+        {
+            if (dto == null) throw new Excepcion_DTO_nulo("El DTO no puede ser nulo");
+            var command = new Actualizar_Subasta_Command(dto);
+            var resultado = await _mediador.Send(command);
+            return Ok(resultado);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest($"Error al actualizar la subasta: {ex.Message}");
+        }
+    }
 }
