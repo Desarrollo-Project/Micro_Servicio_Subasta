@@ -1,0 +1,100 @@
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.deps.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.runtimeconfig.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta..8454E38C.Up2Date
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\refint\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.genruntimeconfig.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\ref\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.sourcelink.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.deps.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.runtimeconfig.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.sourcelink.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta..8454E38C.Up2Date
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\refint\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\ref\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.deps.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.runtimeconfig.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.sourcelink.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta..8454E38C.Up2Date
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\refint\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.genruntimeconfig.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\ref\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.deps.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.runtimeconfig.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.sourcelink.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta..8454E38C.Up2Date
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\refint\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Infraestructura\obj\Debug\net8.0\ref\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.deps.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.runtimeconfig.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.sourcelink.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta..8454E38C.Up2Date
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\refint\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\Subasta.Infraestructura.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Infraestructura\obj\Debug\net8.0\ref\Subasta.Infraestructura.dll

@@ -1,0 +1,461 @@
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Api.staticwebassets.endpoints.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Api.exe
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Api.deps.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Api.runtimeconfig.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Api.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.AssemblyReference.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfoInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.CoreCompileInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\scopedcss\bundle\Subasta.Api.styles.css
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta..FBBE7D36.Up2Date
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\refint\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.genruntimeconfig.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\ref\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Snappier.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\Subasta.Api.sourcelink.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V1\Subasta_Dominio\Subasta.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.exe
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.deps.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.runtimeconfig.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Snappier.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.sourcelink.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\scopedcss\bundle\Subasta.Api.styles.css
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.Subasta.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.Subasta.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Subasta.Api.props
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Subasta.Api.props
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Subasta.Api.props
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta..FBBE7D36.Up2Date
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\refint\Subasta.Api.dll
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.pdb
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DS_Entrega#2\Micro_Subasta\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\ref\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.staticwebassets.endpoints.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.exe
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.deps.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.runtimeconfig.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Snappier.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.AssemblyReference.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfoInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.CoreCompileInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.sourcelink.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\scopedcss\bundle\Subasta.Api.styles.css
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta..FBBE7D36.Up2Date
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\refint\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.pdb
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.genruntimeconfig.cache
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\ref\Subasta.Api.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Segunda Entrega\Micro Subasta\V2\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.exe
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.deps.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.runtimeconfig.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Api.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Snappier.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.sourcelink.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\scopedcss\bundle\Subasta.Api.styles.css
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.Subasta.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.Subasta.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Subasta.Api.props
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Subasta.Api.props
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Subasta.Api.props
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta..FBBE7D36.Up2Date
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\refint\Subasta.Api.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.pdb
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\Subasta.Api.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\obj\Debug\net8.0\ref\Subasta.Api.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Keycloak.AuthServices.Authentication.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Keycloak.AuthServices.Common.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Keycloak.AuthServices.Authorization.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Nuevo_Nuevo\Micro_Servicio_Subastas\Micro_Servicio_Subastas\Subasta.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Api.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Api.exe
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Api.deps.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Api.runtimeconfig.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Api.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Api.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\GreenPipes.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Keycloak.AuthServices.Authentication.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Keycloak.AuthServices.Common.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Keycloak.AuthServices.Authorization.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Snappier.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Infraestructura.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Aplicacion.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\bin\Debug\net8.0\Subasta.Dominio.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.sourcelink.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\scopedcss\bundle\Subasta.Api.styles.css
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.Subasta.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.Subasta.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Subasta.Api.props
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Subasta.Api.props
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Subasta.Api.props
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta..FBBE7D36.Up2Date
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\refint\Subasta.Api.dll
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.pdb
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\Subasta.Api.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DS2_Oficial\Micro_Servicio_Subasta\Micro_Servicio_Subasta\Subasta.Api\obj\Debug\net8.0\ref\Subasta.Api.dll

@@ -1,0 +1,208 @@
+[
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Actualizar_Subasta_Id_Postor_Y_Precio_Final",
+    "RelativePath": "api/Subastas/Actualizar_Subasta_Id_Postor_Y_Precio_Final",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Subasta.Aplicacion.DTO.Actualizar_Subasta_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Cambiar_Estado",
+    "RelativePath": "api/Subastas/Cambiar_Estado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Subasta.Aplicacion.DTO.Cambiar_Estado_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Crear_Subasta",
+    "RelativePath": "api/Subastas/Crear_Subasta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Subasta.Aplicacion.DTO.Crear_Subasta_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Eliminar_Subasta",
+    "RelativePath": "api/Subastas/Eliminar_Subasta",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Subasta.Aplicacion.DTO.Eliminar_Subasta_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Estado_Subasta",
+    "RelativePath": "api/Subastas/Obtener_Estado_Subasta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idSubasta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Id_Subastas_Activas",
+    "RelativePath": "api/Subastas/Obtener_Id_Subastas_Activas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subasta_Por_Id",
+    "RelativePath": "api/Subastas/Obtener_Subasta_Por_Id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idSubasta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Consultar_Subastas_Por_Id_Due\u00F1o",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Due\u00F1o",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDue\u00F1o",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subastas_Finalizadas",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Finalizadas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subastas_Finalizadas_Por_Id_Ganador",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Finalizadas_Por_Id_Ganador",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_gandor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subastas_Finalizadas_Por_Id_Usuario",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Finalizadas_Por_Id_Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_Usuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subastas_Pagadas_Por_Id_Ganador",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Pagadas_Por_Id_Ganador",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_gandor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subastas_Pagadas_Por_Id_Usuario",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Pagadas_Por_Id_Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_Usuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Subasta.Api.Controllers.Controller_Subastas",
+    "Method": "Obtener_Subastas_Pendientes_Activas",
+    "RelativePath": "api/Subastas/Obtener_Subastas_Pendientes_Activas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
