@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DS2_Oficial\\Micro_Servicio_Subasta\\Micro_Servicio_Subasta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3E8CA6-48F9-40F5-B9E6-5BB4EF659572}|Subasta.Api\\Subasta.Api.csproj|c:\\users\\admin\\desktop\\ds2_oficial\\micro_servicio_subasta\\micro_servicio_subasta\\subasta.api\\controllers\\controller_subastas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3E8CA6-48F9-40F5-B9E6-5BB4EF659572}|Subasta.Api\\Subasta.Api.csproj|solutionrelative:subasta.api\\controllers\\controller_subastas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller_Subastas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DS2_Oficial\\Micro_Servicio_Subasta\\Micro_Servicio_Subasta\\Subasta.Api\\Controllers\\Controller_Subastas.cs",
+              "RelativeDocumentMoniker": "Subasta.Api\\Controllers\\Controller_Subastas.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DS2_Oficial\\Micro_Servicio_Subasta\\Micro_Servicio_Subasta\\Subasta.Api\\Controllers\\Controller_Subastas.cs",
+              "RelativeToolTip": "Subasta.Api\\Controllers\\Controller_Subastas.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAQwNABAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:43:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
